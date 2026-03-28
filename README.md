@@ -22,3 +22,4 @@ submission-2026-IAOS-prize/
 ## Usage
 
 To replicate the results, run `code/simulation.R`.
+The simulation is currently configured for parallel execution on 10 workers, so at least 10 CPU cores are recommended.
