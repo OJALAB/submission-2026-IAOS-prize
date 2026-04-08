@@ -1,6 +1,6 @@
 # Simulation Code: Submission for the 2026 IAOS Prize for Young Statisticians (Adam Struzik)
 
-This repository contains the simulation code for the paper *Correcting for Misclassification and Missing Data in Job Vacancy Estimation: A Capture-Recapture Approach*
+This repository contains the simulation code for the paper *Estimation of Job Vacancy Statistics Under Misclassification and Missing Data Using Capture-Recapture*
 submitted for the 2026 IAOS Prize for Young Statisticians by Adam Struzik.
 
 ---
